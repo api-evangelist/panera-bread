@@ -9,6 +9,8 @@ tags:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/panera-bread
   - type: Website
     url: https://www.panerabread.com
   - type: Careers
