@@ -6,21 +6,32 @@ tags:
   - Restaurants
   - Food and Beverage
   - Bakery
-modified: '2026-04-28'
+modified: '2026-06-03'
 apis: []
 common:
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/panera-bread
   - type: Website
     url: https://www.panerabread.com
+  - type: DeveloperPortal
+    url: https://developer.cloud.panerabread.com/
+  - type: Authentication
+    url: https://developer.cloud.panerabread.com/authentication
+  - type: TermsOfService
+    url: https://developer.cloud.panerabread.com/terms
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/panera-bread
   - type: Careers
     url: https://www.panerabread.com/en-us/careers/careers.html
   - type: ContactUs
     url: https://www.panerabread.com/en-us/contact.html
 description: >-
   Panera Bread is a chain of bakery-cafe fast casual restaurants offering sandwiches,
-  soups, salads, pasta, and bakery items with a focus on clean food and convenience.
-  No public developer API has been documented at this time.
+  soups, salads, pasta, and bakery items with a focus on clean food and convenience,
+  anchored by the MyPanera loyalty program. Panera operates a private developer
+  portal at developer.cloud.panerabread.com (built on Google Apigee X) that lists
+  an APIs catalog and an OAuth-based authentication guide, but the API reference
+  and OpenAPI specifications are gated behind authentication and are not publicly
+  accessible. No openly documented, self-service public developer API is available
+  at this time; access appears to be limited to partners and authenticated developers.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
