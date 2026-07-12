@@ -10,6 +10,8 @@ tags:
 modified: '2026-06-03'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/panera-bread-domain-security.yml
   - type: Website
     url: https://www.panerabread.com
   - type: DeveloperPortal
