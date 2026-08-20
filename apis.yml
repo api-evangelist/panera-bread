@@ -16,6 +16,11 @@ name: Panera Bread
 url: >-
   https://raw.githubusercontent.com/api-evangelist/panera-bread/refs/heads/main/apis.yml
 tags:
+  - Restaurant
+  - Food and Beverage
+  - Bakery
+  - Fortune 1000
+tags_raw:
   - Restaurants
   - Food and Beverage
   - Bakery
