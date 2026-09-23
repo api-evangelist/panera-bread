@@ -1,7 +1,9 @@
 ---
 title: Panera Bread News & Media
 url: https://www.kioskmarketplace.com/companies/panera-bread/media/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Panera Bread" press release artificial intelligence'
 position: 4
 source: serpapi-google

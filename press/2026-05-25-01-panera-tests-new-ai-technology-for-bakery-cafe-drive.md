@@ -1,7 +1,9 @@
 ---
 title: Panera Tests New AI Technology for Bakery-Cafe Drive- ...
 url: https://www.panerabread.com/en-us/press/press-room/panera-tests-new-ai-technology.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Panera Bread" press release artificial intelligence'
 position: 1
 source: serpapi-google
