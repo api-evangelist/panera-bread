@@ -1,4 +1,4 @@
-# Panera Bread (panera-bread)
+# Panera Bread
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,34 +66,78 @@
 
 Panera Bread is a chain of bakery-cafe fast casual restaurants offering sandwiches, soups, salads, pasta, and bakery items with a focus on clean food and convenience, anchored by the MyPanera loyalty program. Panera operates a private developer portal at developer.cloud.panerabread.com (built on Google Apigee X) that lists an APIs catalog and an OAuth-based authentication guide, but the API reference and OpenAPI specifications are gated behind authentication and are not publicly accessible. No openly documented, self-service public developer API is available at this time; access appears to be limited to partners and authenticated developers.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/panera-bread/refs/heads/main/apis.yml)
+**Areas:** Restaurant · Food and Beverage · Bakery · Fortune 1000
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Panera Bread on APIs.io
 
-## Tags:
+Everything profiled for Panera Bread is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/panera-bread/](https://apis.io/providers/panera-bread/)** — or go straight to one of the APIs or properties below.
 
- - Restaurants, Food and Beverage, Bakery
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Modified:** 2026-06-03
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. A private developer portal exists but its API catalog and specifications require authentication. Check back for updates.
+- [Panera Bread Domain Security](https://apis.io/security/panera-bread/panera-bread-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.panerabread.com)
-- [DeveloperPortal](https://developer.cloud.panerabread.com/)
-- [Authentication](https://developer.cloud.panerabread.com/authentication)
-- [TermsOfService](https://developer.cloud.panerabread.com/terms)
-- [LinkedIn](https://www.linkedin.com/company/panera-bread)
-- [Careers](https://www.panerabread.com/en-us/careers/careers.html)
-- [ContactUs](https://www.panerabread.com/en-us/contact.html)
+- [Terms of service](https://developer.cloud.panerabread.com/terms)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/panera-bread/](https://apis.io/providers/panera-bread/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Panera Bread: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/panera-bread/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
